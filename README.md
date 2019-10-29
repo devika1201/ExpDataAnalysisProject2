@@ -1,4 +1,4 @@
-# ExpDataAnalysisProject2
+# Exploratory Data Analysis Project2
 * Introduction
 
 Fine particulate matter (PM_{2.5}) is an ambient air pollutant for which there
